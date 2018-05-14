@@ -1,0 +1,21 @@
+body {
+  background-color: white;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  position: relative;
+  height: 400px;
+}
+
+.youtube {
+  /* colors */
+  /* red #FF0000 */
+  height: 300px;
+  width: 500px;
+
+  background: red;
+}

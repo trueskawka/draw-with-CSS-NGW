@@ -1,0 +1,26 @@
+body {
+  background-color: white;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  position: relative;
+  height: 400px;
+}
+
+.instagram {
+  height: 400px;
+  width: 400px;
+
+  background: 
+    radial-gradient(
+      circle at 30% 107%, 
+      #fdf497 0%, #fdf497 5%, 
+      #fd5949 45%, 
+      #d6249f 60%, 
+      #285AEB 90%
+    );
+}

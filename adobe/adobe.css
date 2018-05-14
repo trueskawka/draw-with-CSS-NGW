@@ -1,0 +1,21 @@
+body {
+  background-color: white;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  position: relative;
+  height: 400px;
+}
+
+.adobe {
+  /* colors */
+  /* red #ff0000 */
+  height: 400px;
+  width: 400px;
+
+  background: red;
+}
