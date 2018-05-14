@@ -31,10 +31,10 @@ For this workshop you'll need:
 
 1. A browser 
 
-  Preferably Chrome or Firefox, but maybe we'll find fun edge 
-  cases in Edge or Safari 
+    Preferably Chrome or Firefox, but maybe we'll find fun edge 
+    cases in Edge or Safari.
 
 2. An editor and/or an interactive environment 
 
-  You can use any code editor or CSS environment you want. I usually 
-  draw with CSS in [CodePen](https://codepen.io/) or [Dabblet](http://dabblet.com/).
+    You can use any code editor or CSS environment you want. I usually 
+    draw with CSS in [CodePen](https://codepen.io/) or [Dabblet](http://dabblet.com/).
